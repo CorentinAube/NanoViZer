@@ -4,7 +4,6 @@ from flask import request, abort, Response
 import os
 import nanovizer
 import barcode_to_sequence
-import no_genome_name
 import threading
 import json
 
