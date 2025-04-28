@@ -21,8 +21,8 @@
 - pysam
 
 ## 3. Installation
-### 3.1 For Linux or MacOs user
-#### 3.1.1. For non-bioinformaticians
+### 3.1 For non-bioinformaticians
+#### 3.1.1. For Linux or MacOs user
 In a first time download NanoViZer by clicking on the green button "<> Code" and by choosing "Download ZIP".  
 The unzip the file and move it on your Documents.  
 Open the application Terminal already installed on your computer.  
