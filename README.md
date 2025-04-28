@@ -4,7 +4,7 @@
 </p>
 
 <!-- NanoViZer -->
-<h1 align="center"><strong>TITRE_DU_PROJET</strong></h1>
+<h1 align="center"><strong>NanoViZer</strong></h1>
 
 ---
 
