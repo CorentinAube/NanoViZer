@@ -19,6 +19,8 @@
 *(Instructions pour installer ou cloner le projet.)*
 
 ## 3. Installation
+```bash
+chmod +x install_packages.sh
 
 ## 4. Usage
 
