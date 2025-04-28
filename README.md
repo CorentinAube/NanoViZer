@@ -52,5 +52,11 @@ Press CTRL+C to quit
  * Debugger is active!
  * Debugger PIN: 113-194-444
 ```
+Keep your Terminal application open for use NanoViZer.  
+After, open Google Chrome go to this website:
+```bash
+https://nanovizer-aoz.piksail.com/
+```
+
 ## 5. Citation
 
