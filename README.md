@@ -21,6 +21,7 @@
 - pysam
 
 ## 3. Installation
+In a first time download NanoViZer
 ```bash
 chmod +x install_packages.sh
 ```
