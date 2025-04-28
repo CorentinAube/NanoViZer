@@ -24,7 +24,7 @@
 ### 3.1 For non-bioinformaticians
 #### 3.1.1. For Linux or MacOs user
 In a first time download NanoViZer by clicking on the green button "<> Code" and by choosing "Download ZIP".  
-The unzip the file and move it on your Documents.  
+Then unzip the file and move it on your Documents.  
 Open the application Terminal already installed on your computer.  
 Write these command lines to install requierements:  
 ```bash
@@ -57,6 +57,8 @@ After, open Google Chrome go to this website:
 ```bash
 https://nanovizer-aoz.piksail.com/
 ```
+Indicate at least the File name (bam file), the name of your genome use for the mapping and the size of your genome.  
+Others parameters are optionnal.
 
 ## 5. Citation
 
