@@ -23,6 +23,8 @@ For installation, check the following section.
 
 ## 3. Installation
 ### 3.1 For non-bioinformaticians
+If there are any issues, does not hesitate to contact us.
+
 #### 3.1.1. For Linux or MacOS user
 - In a first time download NanoViZer by clicking on the green button "<> Code" and by choosing "Download ZIP".  
 - Then unzip the file and move it on your Documents.  
@@ -37,7 +39,7 @@ bash install_packages.sh #Then press enter on your laptop
 #### 3.1.2. For Windows user
 - Please first install WSL by finding any tutorial on the net.
 - Navigate to ubuntu by tiping "pwd" to check your actual localisation in your Terminal application and "cd followin_folder" to go inside a folder that is inside your current folder.
-Navigate to go inside of the NanoViZer folder and the write these following commande line:
+Navigate to go inside of the NanoViZer folder and the write these following commande lines:
 ```bash
 sudo apt update #Then press enter on your laptop and follow instructions
 sudo apt install python3-pip #Then press enter on your laptop and follow instructions
