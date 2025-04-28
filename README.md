@@ -1,6 +1,6 @@
 <!-- Bandeau image -->
 <p align="center">
-  <img src="https://nanovizer-aoz.piksail.com/" alt="Bandeau" width="100%" />
+  <img src="https://nanovizer-aoz.piksail.com/assets/nanovizer-dark-theme.fa2f5a75.svg" alt="Bandeau" width="100%" />
 </p>
 
 <!-- NanoViZer -->
