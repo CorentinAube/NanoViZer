@@ -15,8 +15,10 @@
 ---
 
 ## 2. Requierement
-
-*(Instructions pour installer ou cloner le projet.)*
+- Python >= 3.7
+- Flask
+- flask-cors
+- pysam
 
 ## 3. Installation
 ```bash
