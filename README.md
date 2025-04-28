@@ -21,6 +21,7 @@
 ## 3. Installation
 ```bash
 chmod +x install_packages.sh
+```bash
 
 ## 4. Usage
 
