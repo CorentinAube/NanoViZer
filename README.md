@@ -8,19 +8,19 @@
 
 ---
 
-## 1. Présentation
+## 1. Introduction
 
 *(Un petit texte qui explique en quelques lignes ce qu'est ton projet.)*
 
 ---
 
-## 2. Installation
+## 2. Requierement
 
 *(Instructions pour installer ou cloner le projet.)*
 
-```bash
-git clone https://github.com/ton_user/ton_repo.git
-cd ton_repo
-# puis (éventuellement)
-conda create -n ton_env python=3.XX
-conda activate ton_env
+## 3. Installation
+
+## 4. Usage
+
+## 5. Citation
+
