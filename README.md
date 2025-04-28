@@ -19,20 +19,36 @@
 - Flask
 - flask-cors
 - pysam
+For installation, check the following section.  
 
 ## 3. Installation
 ### 3.1 For non-bioinformaticians
-#### 3.1.1. For Linux or MacOs user
-In a first time download NanoViZer by clicking on the green button "<> Code" and by choosing "Download ZIP".  
-Then unzip the file and move it on your Documents.  
-Open the application Terminal already installed on your computer.  
-Write these command lines to install requierements:  
+#### 3.1.1. For Linux or MacOS user
+- In a first time download NanoViZer by clicking on the green button "<> Code" and by choosing "Download ZIP".  
+- Then unzip the file and move it on your Documents.  
+- Open the application Terminal already installed on your computer.  
+- Write these command lines to install requierements if you are using MacOS Silicon:  
 ```bash
 cd Documents/NanoViZer/ #Then press enter on your laptop
 chmod +x install_packages.sh #Then press enter on your laptop
 bash install_packages.sh #Then press enter on your laptop
 ```
+
 #### 3.1.2. For Windows user
+- Please first install WSL by finding any tutorial on the net.
+- Navigate to ubuntu by tiping "pwd" to check your actual localisation in your Terminal application and "cd followin_folder" to go inside a folder that is inside your current folder.
+Navigate to go inside of the NanoViZer folder and the write these following commande line:
+```bash
+sudo apt update #Then press enter on your laptop and follow instructions
+sudo apt install python3-pip #Then press enter on your laptop and follow instructions
+cd Documents/NanoViZer/ #Then press enter on your laptop
+chmod +x install_packages.sh #Then press enter on your laptop
+bash install_packages.sh #Then press enter on your laptop
+```
+
+### 3.2 For bioinformaticians
+NanoViZer folder does not need to be in the Documents folder, it is just to facilitate explanations.  
+Choose your own way to install these requierements (pip, conda, ...). 
 
 ## 4. Usage
 After have install requierements (section 3.), write the following command line:
