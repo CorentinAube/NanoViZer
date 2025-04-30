@@ -62,12 +62,13 @@ If there are any issues, do not hesitate to contact us.
 1. First, download NanoViZer by clicking on the green "<> Code" button and choosing "Download ZIP".  
 2. Then, unzip the file and move it to your Documents folder.  
 3. Open the Terminal application already installed on your computer.  
-4. Use the following commands to install requirements if you are using macOS Silicon:  
+4. If you are using macOS Silicon, use the following commands to install requirements :  
 ```bash
 cd Documents/NanoViZer/ #Then press enter on your laptop
 chmod +x install_packages.sh #Then press enter on your laptop
 bash install_packages.sh #Then press enter on your laptop
 ```
+5. If you are using macOS Intel, refer to section 3.1.2, point 5.
 
 #### 3.1.2 For Windows Users
 
