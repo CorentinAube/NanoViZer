@@ -90,6 +90,7 @@ If the pip installation does not work, you can search forums by indicating the e
 ### 3.2 For Bioinformaticians
 
 The NanoViZer folder does not need to be in the Documents folder; this is just to facilitate explanations. Choose your own method to install these requirements (e.g., pip, conda, etc.).
+The install_packages.sh file allows you to download all the required packages through pip3.
 
 ## 4. Usage
 
