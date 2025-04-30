@@ -49,7 +49,7 @@ NanoViZer is an invaluable resource for researchers in the field of virology, pr
 - Python >= 3.7
 - Flask
 - flask-cors
-- pysam
+- pysam  
 For installation, check the following section.  
 
 ## 3. Installation
