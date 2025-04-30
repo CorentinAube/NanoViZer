@@ -84,6 +84,7 @@ cd Documents/NanoViZer/ #Then press enter on your laptop
 chmod +x install_packages.sh #Then press enter on your laptop
 bash install_packages.sh #Then press enter on your laptop
 ```
+If the pip installation does not work, you can search forums by indicating the error message from your terminal, ask an AI for help, or, as a last resort, contact us.  
 
 ### 3.2 For Bioinformaticians
 
