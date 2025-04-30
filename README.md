@@ -15,7 +15,7 @@
 ## Features
 
 - **Annotation-Free Analysis:** Enables the study of viral deletions without prior genomic knowledge.
-- **Broad Viral Family Compatibility:** Proven to work with multiple viral families, including HIV, SARS-CoV-2, HSV, and HDV.
+- **Broad Viral Family Compatibility:** Proven to work with multiple viral families, including HIV-1, SARS-CoV-2, HSV-1, and HDV.
 - **User-Friendly Interface:** Simple command-line activation and web-browser-based analysis.
 - **Data Privacy:** All data remains local and is never uploaded to an external server.
 - **No Heavy Computational Requirements:** Only an internet connection is needed.
@@ -28,9 +28,9 @@ NanoViZer is designed to be user-friendly, requiring minimal computational exper
 
 NanoViZer has been successfully demonstrated to analyze data from various viral families, including:
 
-- HIV
+- HIV-1
 - SARS-CoV-2
-- HSV
+- HSV-1
 - HDV
 
 ## How to Use
