@@ -98,7 +98,7 @@ After installing the requirements (see section 3), run the following command:
 ```bash
 python3 NanoViZer.py
 ```
-This kind of text should be appear:
+This kind of text should appear:
 ```bash
  * Serving Flask app 'test_api'
  * Debug mode: on
@@ -111,8 +111,8 @@ Press CTRL+C to quit
  * Debugger is active!
  * Debugger PIN: 113-194-444
 ```
-Keep your Terminal application open for use NanoViZer.  
-After, open Google Chrome go to this website:
+Keep your Terminal application open to use NanoViZer.  
+After that, open Google Chrome and go to this website:
 ```bash
 https://nanovizer-aoz.piksail.com/
 ```
