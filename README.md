@@ -50,27 +50,33 @@ NanoViZer is an invaluable resource for researchers in the field of virology, pr
 - Flask
 - flask-cors
 - pysam  
-For installation, check the following section.  
+For installation, check the following section.
 
 ## 3. Installation
-### 3.1 For non-bioinformaticians
-If there are any issues, does not hesitate to contact us.
 
-#### 3.1.1. For Linux or MacOS user
-- In a first time download NanoViZer by clicking on the green button "<> Code" and by choosing "Download ZIP".  
-- Then unzip the file and move it on your Documents.  
-- Open the application Terminal already installed on your computer.  
-- Write these command lines to install requierements if you are using MacOS Silicon:  
+### 3.1 For Non-Bioinformaticians
+
+If there are any issues, do not hesitate to contact us.
+
+#### 3.1.1 For Linux or macOS Users
+1. First, download NanoViZer by clicking on the green "<> Code" button and choosing "Download ZIP".  
+2. Then, unzip the file and move it to your Documents folder.  
+3. Open the Terminal application already installed on your computer.  
+4. Use the following commands to install requirements if you are using macOS Silicon:  
 ```bash
 cd Documents/NanoViZer/ #Then press enter on your laptop
 chmod +x install_packages.sh #Then press enter on your laptop
 bash install_packages.sh #Then press enter on your laptop
 ```
 
-#### 3.1.2. For Windows user
-- Please first install WSL by finding any tutorial on the net.
-- Navigate to ubuntu by tiping "pwd" to check your actual localisation in your Terminal application and "cd followin_folder" to go inside a folder that is inside your current folder.
-Navigate to go inside of the NanoViZer folder and the write these following commande lines:
+#### 3.1.2 For Windows Users
+
+1. First, install WSL by following any tutorial you find online.  
+2. Navigate to the Ubuntu environment.  
+3. Type `pwd` to check your current location in your Terminal application.  
+4. Use `cd following_folder` to navigate inside a folder that is inside your current folder (replace `following_folder` with the actual folder name).  
+
+5. Navigate to the NanoViZer folder and then run the following commands:  
 ```bash
 sudo apt update #Then press enter on your laptop and follow instructions
 sudo apt install python3-pip #Then press enter on your laptop and follow instructions
@@ -79,12 +85,13 @@ chmod +x install_packages.sh #Then press enter on your laptop
 bash install_packages.sh #Then press enter on your laptop
 ```
 
-### 3.2 For bioinformaticians
-NanoViZer folder does not need to be in the Documents folder, it is just to facilitate explanations.  
-Choose your own way to install these requierements (pip, conda, ...). 
+### 3.2 For Bioinformaticians
+
+The NanoViZer folder does not need to be in the Documents folder; this is just to facilitate explanations. Choose your own method to install these requirements (e.g., pip, conda, etc.).
 
 ## 4. Usage
-After have install requierements (section 3.), write the following command line:
+
+After installing the requirements (see section 3), run the following command:
 ```bash
 python3 NanoViZer.py
 ```
