@@ -116,8 +116,8 @@ After that, open Google Chrome and go to this website:
 ```bash
 https://nanovizer-aoz.piksail.com/
 ```
-Indicate at least the File name (bam file), the name of your genome use for the mapping and the size of your genome.  
-Others parameters are optionnal.
+Indicate at least the File name (bam file), the name of your genome use for mapping and the size of your genome.  
+Other parameters are optional.
 
 ## 5. Citation
 
