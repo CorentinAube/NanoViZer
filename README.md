@@ -12,7 +12,7 @@
 
 **NanoViZer (Nanopore Virus analyZER)** is a powerful bioinformatics tool designed to study deletions in viral RNA and genomes through full-length Nanopore sequencing.
 
-## Features
+### 1.1 Features
 
 - **Annotation-Free Analysis:** Enables the study of viral deletions without prior genomic knowledge.
 - **Broad Viral Family Compatibility:** Proven to work with multiple viral families, including HIV-1, SARS-CoV-2, HSV-1, and HDV.
@@ -20,11 +20,11 @@
 - **Data Privacy:** All data remains local and is never uploaded to an external server.
 - **No Heavy Computational Requirements:** Only an internet connection is needed.
 
-## Ease of Use
+### 1.2 Ease of Use
 
 NanoViZer is designed to be user-friendly, requiring minimal computational expertise. After installing a few necessary tools, users can activate NanoViZer with a simple command-line interface. All subsequent analyses are conducted via a web browser, such as Google Chrome. Your data remains local and is never uploaded to an external server, ensuring data privacy and security. Only an internet connection is required to run NanoViZer effectively.
 
-## Demonstration
+### 1.3 Demonstration
 
 NanoViZer has been successfully demonstrated to analyze data from various viral families, including:
 
@@ -33,7 +33,7 @@ NanoViZer has been successfully demonstrated to analyze data from various viral 
 - HSV-1
 - HDV
 
-## How to Use
+### 1.4 How to Use
 
 1. **Install Required Tools:** Follow the installation instructions to set up the necessary tools.
 2. **Activate NanoViZer:** Use the provided command-line interface to activate NanoViZer.
