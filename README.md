@@ -56,7 +56,7 @@ For installation, check the following section.
 
 ### 3.1 For Non-Bioinformaticians
 
-If there are any issues, do not hesitate to contact us.
+If there are any issues, do not hesitate to contact us or ask to an IA!
 
 #### 3.1.1 For Linux or macOS Users
 1. First, download NanoViZer by clicking on the green "<> Code" button and choosing "Download ZIP".  
