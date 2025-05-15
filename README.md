@@ -93,6 +93,7 @@ The NanoViZer folder does not need to be in the Documents folder; this is just t
 The install_packages.sh file allows you to download all the required packages through pip3.
 
 ## 4. Usage
+### 4.1 Open
 
 After installing the requirements (see section 3), run the following command:
 ```bash
@@ -118,6 +119,8 @@ https://nanovizer-aoz.piksail.com/
 ```
 Indicate at least the File name (bam file), the name of your genome use for mapping and the size of your genome.  
 Other parameters are optional.
+
+### 4.2 Launch
 
 ## 5. Citation
 
