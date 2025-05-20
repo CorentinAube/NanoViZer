@@ -121,6 +121,6 @@ Indicate at least the File name (bam file), the name of your genome use for mapp
 Other parameters are optional.
 
 ### 4.2 Launch
-!(image/tuto_UI.png)
+![tuto](image/tuto_UI.png)
 ## 5. Citation
 
