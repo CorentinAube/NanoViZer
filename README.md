@@ -121,8 +121,6 @@ Indicate at least the File name (bam file), the name of your genome use for mapp
 Other parameters are optional.
 
 ### 4.2 Launch
-<p align="center">
-  <img src="https://nanovizer-aoz.piksail.com/assets/nanovizer-light-theme.a92c964a.svg" alt="Bandeau" width="100%" />
-</p>
+!(image/tuto_UI.png)
 ## 5. Citation
 
