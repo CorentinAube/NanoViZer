@@ -136,5 +136,7 @@ This file should be placed in the 'genome' folder and is used to obtain the sequ
 5- Specify the minimum size of a read to be considered in the analysis.  
 6, 7, 8, 9- Specify the positions of the different filters to filter the reads based on their alignment with the reference genome. See Figure XXX in the article for more details.  
 
+After completing the mandatory and optional options, click the 'Submit' button to launch NanoViZer.
+
 ## 5. Citation
 
