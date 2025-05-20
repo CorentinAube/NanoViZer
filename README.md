@@ -156,7 +156,7 @@ To download the images, click on 'Save chart.' To download the images with a whi
 **Raw data**  
 The raw data generate by NanoViZer are save in the result folder.  
 The following folders and file are automaticaly created:  
-![](image/tuto_analysis_3.png)  
+![](image/tuto_analysis_3.png?width=300)  
 
 one_block_coverage/: This folder contain the bedfile of untruncated reads.  
 remove_reads/: This folder contain the bedfile of reads remove by the optionnal filters.  
