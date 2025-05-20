@@ -183,7 +183,15 @@ The following folders and file are automaticaly created:
 ![tuto](image/tuto_analysis_4.png)  
 This error occurs when the genome size specified in the options is too small. Please increase the genome size to at least the length of the sequence used for alignment.  
 
-
+**- Bam sort issues**
+```bash
+pysam.utils.SamtoolsError: 'samtools returned with error 1: stdout=, stderr=samtools index: failed to create index for
+```
+This error could occurs when the bam file is not sort.  
+Try this following command line after have download samtools.  
+```bash
+samtools sort -o fichier.sorted.bam fichier.bam
+```
 
 ## 6. Citation
 
