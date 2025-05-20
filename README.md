@@ -152,8 +152,11 @@ To change the analysis thresholds, modify the value of the threshold, which is s
   
 **Download chart**  
 To download the images, click on 'Save chart.' To download the images with a white background, first click on the 'Light theme' tab, and then click on 'Save chart.'
-
-
+  
+**Raw data**  
+The raw data generate by NanoViZer are save in the result folder.  
+The following folders and file are automaticaly created:  
+![](image/tuto_analysis_3.png)
 
 ## 5. Citation
 
