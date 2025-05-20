@@ -158,21 +158,22 @@ The raw data generate by NanoViZer are save in the result folder.
 The following folders and file are automaticaly created:  
 ![](image/tuto_analysis_3.png)  
 
+**Foler and file descriptions**  
 one_block_coverage/: This folder contain the bedfile of untruncated reads.  
 remove_reads/: This folder contain the bedfile of reads remove by the optionnal filters.  
 spliced_seq/: This folder contain the bedfile of truncated reads.  
 3prime_site.tsv: This file contain position of the junction at the 3' position of the block.  
 5prime_site.tsv: This file contain position of the junction at the 5' position of the block.
-barcode_sequence.tsv:  
-barcode.tsv:  
-bedfile_with_barcode.tsv:  
-coverage.tsv:  
-end_site.tsv:  
-junction.tsv:  
-number_of_blocks.tsv:  
-read_count.tsv  
-read_size.tsv:  
-start_site.tsv:  
+barcode_sequence.tsv: This file contain the sequence at the the junctions.   
+barcode.tsv: This file contain all the barcode and the associated count.  
+bedfile_with_barcode.tsv:  This is the bedfile of the analysis reads where each barcode was added at the end of lines.
+coverage.tsv: This file contain the read coverage of the genome.  
+end_site.tsv: This file contain the position of the end of reads.  
+junction.tsv: This file contain all the junction analysis and the count for each of theme.  
+number_of_blocks.tsv:  This file contain the count of reads that contain 2 or more blocks.  
+read_count.tsv:  This file contain the summary of NanoViZer.    
+read_size.tsv: This file contain the count of reads at a given size.   
+start_site.tsv: This file contain the count of the firts position of the reads.  
 
 ## 5. Citation
 
