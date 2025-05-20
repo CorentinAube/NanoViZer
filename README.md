@@ -140,9 +140,7 @@ This file should be placed in the 'genome' folder and is used to obtain the sequ
 After completing the mandatory and optional options, click the 'Submit' button to launch NanoViZer.  
 
 ### 4.3 Analysis
-<p align="center">
-  <img src="https://nanovizer-aoz.piksail.com/assets/nanovizer-light-theme.a92c964a.svg" alt="Bandeau" width="100%" />
-</p>
+![tuto](image/tuto_UI.png)
 
 
 ## 5. Citation
