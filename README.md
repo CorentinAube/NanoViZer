@@ -124,13 +124,13 @@ Other parameters are optional.
 To use NanoViZer, please complete the information on the homepage. Only 'File name,' 'Name,' and 'Size' are required to launch NanoViZer; all other information is optional.  
 ![tuto](image/tuto_UI.png)
 
-*Mandatory options:*  
+**Mandatory options:**  
 1- Specify the alignment file : your_file.bam  
 2- Specify the genome name use for the mapping.  
 If you do not know the name of the genome, enter anything. After launching NanoViZer, navigate to the 'data' folder and then to the file 'your_file.bed' that will have been generated. The names of all genomes are listed in column 1. Please find the name of the genome you wish to study and enter it in box 2 on the homepage.  
 3- Specify the size of your genome.  
 
-*Optional options:*  
+**Optional options:**  
 4- Specify the name of the refseq file use for the mapping. This file should be placed in the 'genome' folder and is used to obtain the sequences present at the junction sites.  
 5- Specify the minimum size of a read to be considered in the analysis.  
 6, 7, 8, 9- Specify the positions of the different filters to filter the reads based on their alignment with the reference genome. See Figure XXX in the article for more details.  
