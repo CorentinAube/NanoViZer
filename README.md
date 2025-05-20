@@ -121,7 +121,8 @@ Indicate at least the File name (bam file), the name of your genome use for mapp
 Other parameters are optional.
 
 ### 4.2 Launch NanoViZer
-To use NanoViZer, please complete the information on the homepage. Only 'File name,' 'Name,' and 'Size' are required to launch NanoViZer; all other information is optional.  
+To use NanoViZer, please complete the information on the homepage.  
+Only 'File name,' 'Name,' and 'Size' are required to launch NanoViZer; all other information is optional.  
 ![tuto](image/tuto_UI.png)
 
 **Mandatory options:**  
@@ -138,6 +139,7 @@ This file should be placed in the 'genome' folder and is used to obtain the sequ
 
 **Launch NanoViZer**  
 After completing the mandatory and optional options, click the 'Submit' button to launch NanoViZer.  
+If any error messages appear, please refer to Section 5: Troubleshooting.  
 
 ### 4.3 Analysis
 ![tuto](image/tuto_analysis_2.png)
@@ -175,5 +177,7 @@ The following folders and file are automaticaly created:
 - read_size.tsv: This file contains the count of reads at a given size.  
 - start_site.tsv: This file contains the count of the first positions of the reads.  
 
-## 5. Citation
+## 5. Troobleshooting
+
+## 6. Citation
 
