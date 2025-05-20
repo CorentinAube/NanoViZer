@@ -156,7 +156,23 @@ To download the images, click on 'Save chart.' To download the images with a whi
 **Raw data**  
 The raw data generate by NanoViZer are save in the result folder.  
 The following folders and file are automaticaly created:  
-![](image/tuto_analysis_3.png)
+![](image/tuto_analysis_3.png)  
+
+one_block_coverage/: This folder contain the bedfile of untruncated reads.  
+remove_reads/: This folder contain the bedfile of reads remove by the optionnal filters.  
+spliced_seq/: This folder contain the bedfile of truncated reads.  
+3prime_site.tsv: This file contain position of the junction at the 3' position of the block.  
+5prime_site.tsv: This file contain position of the junction at the 5' position of the block.
+barcode_sequence.tsv:  
+barcode.tsv:  
+bedfile_with_barcode.tsv:  
+coverage.tsv:  
+end_site.tsv:  
+junction.tsv:  
+number_of_blocks.tsv:  
+read_count.tsv  
+read_size.tsv:  
+start_site.tsv:  
 
 ## 5. Citation
 
