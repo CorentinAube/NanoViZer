@@ -1,0 +1,1 @@
+Add all the REFSEQ files (fasta format) you want to use to this folder.

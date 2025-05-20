@@ -1,0 +1,1 @@
+Add all the BAM files you want to analyze to this folder.
