@@ -181,7 +181,7 @@ The following folders and file are automaticaly created:
 ## 5. Troobleshooting  
 **- Genome size too short**  
 ![tuto](image/tuto_analysis_4.png)  
-The genome size specified in the options is too small. Please increase the genome size to at least the length of the sequence used for alignment.  
+This error appear when the genome size specified in the options is too small. Please increase the genome size to at least the length of the sequence used for alignment.  
 
 
 
