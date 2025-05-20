@@ -64,7 +64,7 @@ If there are any issues, do not hesitate to contact us or ask to an IA!
 3. Open the Terminal application already installed on your computer.  
 4. If you are using macOS Silicon, use the following commands to install requirements :  
 ```bash
-cd Documents/NanoViZer/ #Then press enter on your laptop
+cd Documents/NanoViZer/src/ #Then press enter on your laptop
 chmod +x install_packages.sh #Then press enter on your laptop
 bash install_packages.sh #Then press enter on your laptop
 ```
@@ -97,7 +97,7 @@ The install_packages.sh file allows you to download all the required packages th
 
 After installing the requirements (see section 3), run the following command:
 ```bash
-cd Documents/NanoViZer/src/ #Press enter; This command line allow you to navigate to the NanoViZer folder and to the folder that contain all the source code.
+cd Documents/NanoViZer/src/ #Press enter; This command line allows you to navigate to the NanoViZer folder and to the folder that contains all the source code.
 python3 NanoViZer.py #Press enter
 ```
 This kind of text should appear:
