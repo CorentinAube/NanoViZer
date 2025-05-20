@@ -140,7 +140,9 @@ This file should be placed in the 'genome' folder and is used to obtain the sequ
 After completing the mandatory and optional options, click the 'Submit' button to launch NanoViZer.  
 
 ### 4.3 Analysis
-![tuto](image/tuto_UI.png)
+![tuto](image/tuto_analysis.png)
+
+
 
 
 ## 5. Citation
