@@ -187,8 +187,8 @@ This error occurs when the genome size specified in the options is too small. Pl
 ```bash
 pysam.utils.SamtoolsError: 'samtools returned with error 1: stdout=, stderr=samtools index: failed to create index for
 ```
-This error could occurs when the bam file is not sort.  
-Try this following command line after have download samtools.  
+This error could occurs when the bam file is not sorted.  
+Try this following command line after have downloaded samtools.  
 ```bash
 samtools sort -o fichier.sorted.bam fichier.bam
 ```
