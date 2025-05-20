@@ -120,7 +120,7 @@ https://nanovizer-aoz.piksail.com/
 Indicate at least the File name (bam file), the name of your genome use for mapping and the size of your genome.  
 Other parameters are optional.
 
-### 4.2 Launch
+### 4.2 Launch NanoViZer
 To use NanoViZer, please complete the information on the homepage. Only 'File name,' 'Name,' and 'Size' are required to launch NanoViZer; all other information is optional.  
 ![tuto](image/tuto_UI.png)
 
