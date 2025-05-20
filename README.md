@@ -143,10 +143,13 @@ After completing the mandatory and optional options, click the 'Submit' button t
 ![tuto](image/tuto_analysis_2.png)
 **Results**  
 The results obtained by NanoViZer are saved in text format in the 'Results' folder, and a new page opens with the graphical representations.  
+  
 **Navigate**  
 You can navigate through the page by scrolling or by directly clicking on the tabs.  
-**Threshold**    
+  
+**Threshold**  
 To change the analysis thresholds, modify the value of the threshold, which is set to 10 by default.  
+  
 **Download chart**  
 To download the images, click on 'Save chart.' To download the images with a white background, first click on the 'Light theme' tab, and then click on 'Save chart.'
 
