@@ -123,6 +123,7 @@ Other parameters are optional.
 ### 4.2 Launch NanoViZer
 To use NanoViZer, please complete the information on the homepage.  
 Only 'File name,' 'Name,' and 'Size' are required to launch NanoViZer; all other information is optional.  
+If any error messages appear, please refer to Section 5: Troubleshooting.  
 ![tuto](image/tuto_UI.png)
 
 **Mandatory options:**  
@@ -177,7 +178,12 @@ The following folders and file are automaticaly created:
 - read_size.tsv: This file contains the count of reads at a given size.  
 - start_site.tsv: This file contains the count of the first positions of the reads.  
 
-## 5. Troobleshooting
+## 5. Troobleshooting  
+**- Genome size too short**  
+![tuto](image/tuto_analysis_4.png)  
+The genome size specified in the options is too small. Please increase the genome size to at least the length of the sequence used for alignment.  
+
+
 
 ## 6. Citation
 
