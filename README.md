@@ -163,12 +163,12 @@ The raw data generate by NanoViZer are save in the result folder.
 The following folders and file are automaticaly created:  
 ![](image/tuto_analysis_3.png)  
 
-**Foler and file descriptions**  
+**Folder and file descriptions**  
 - one_block_coverage/: This folder contains the BED file of untruncated reads.  
 - remove_reads/: This folder contains the BED file of reads removed by the optional filters.  
 - spliced_seq/: This folder contains the BED file of truncated reads.  
-- 3prime_site.tsv: This file contains the positions of the junctions at the 3' end of the block. That correspond to the first nucleotide truncated.  
-- 5prime_site.tsv: This file contains the positions of the junctions at the 5' start of the block. That correspond to the last nucleotide truncated.  
+- 3prime_site.tsv: This file contains the positions of the junctions at the 3' end of the block. That correspond to the last nucleotide untruncated before the junction.  
+- 5prime_site.tsv: This file contains the positions of the junctions at the 5' start of the block. That correspond to the first nucleotide untruncated after the junction.  
 - barcode_sequence.tsv: This file contains the sequences at the junctions.  
 - barcode.tsv: This file contains all the barcodes and their associated counts.  
 - bedfile_with_barcode.tsv: This is the BED file of the analysis reads where each barcode is added at the end of the lines.  
