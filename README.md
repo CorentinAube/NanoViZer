@@ -98,7 +98,7 @@ The install_packages.sh file allows you to download all the required packages th
 After installing the requirements (see section 3), run the following command:
 ```bash
 cd Documents/NanoViZer/src/ #Press enter; This command line allows you to navigate to the NanoViZer folder and to the folder that contains all the source code.
-python3 NanoViZer.py #Press enter
+python3 nanovizer.py #Press enter
 ```
 This kind of text should appear:
 ```bash
