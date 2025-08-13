@@ -131,7 +131,7 @@ If any error messages appear, please refer to Section 5: Troubleshooting.
 1- Specify the alignment file : your_file.bam  
 This file should be placed in the 'data' folder.  
 2- Specify the genome name use for the mapping.  
-If you do not know the name of the genome, enter anything. After launching NanoViZer, navigate to the 'data' folder and then to the file 'your_file.bed' that will have been generated. The names of all genomes are listed in column 1. Please find the name of the genome you wish to study and enter it in box 2 on the homepage.  
+If you do not know the name of the genome, enter anything. After launching NanoViZer, navigate to the 'data' folder and open the genome_name.tsv file. All the detected genomes are listed here. After have found your genome of interest, run again NanoViZer with the good genome name.  
 3- Specify the size of your genome.  
 
 **Optional options:**  
