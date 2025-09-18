@@ -145,7 +145,7 @@ This file should be placed in the 'genome' folder and is used to obtain the sequ
 - 3'end: end read position ≤ filter
 - 5'mini: start read position ≤ filter
 - 3'mini: end read position ≥ filter
-- passthrough: start block position ≤ position ≥ end block position (all blocks of read are tested until a position is included to a block).   
+- passthrough: start block position ≤ filter ≥ end block position (all blocks of one read are tested until the filter position is included to a block).   
 
 **Launch NanoViZer**  
 After completing the mandatory and optional options, click the 'Submit' button to launch NanoViZer.  
