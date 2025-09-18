@@ -140,6 +140,13 @@ This file should be placed in the 'genome' folder and is used to obtain the sequ
 5- Specify the minimum size of a read to be considered in the analysis.  
 6, 7, 8, 9- Specify the positions of the different filters to filter the reads based on their alignment with the reference genome. See Figure XXX in the article for more details.  
 
+**Filters**
+- 5'start: start read position ≥ filter
+- 3'end: end read position ≤ filter
+- 5'mini: start read position ≤ filter
+- 3'mini: end read position ≥ filter
+- passthrough: start block position ≤ position ≥ end block position (all blocks of read are tested until a position is included to a block).   
+
 **Launch NanoViZer**  
 After completing the mandatory and optional options, click the 'Submit' button to launch NanoViZer.  
 If any error messages appear, please refer to Section 5: Troubleshooting.  
@@ -161,19 +168,21 @@ To download the images, click on 'Save chart.' To download the images with a whi
 **Raw data**  
 The raw data generate by NanoViZer are save in the result folder.  
 The following folders and file are automaticaly created:  
-![](image/tuto_analysis_3.png)  
+![](image/tuto_analysis_3b.png)  
 
 **Folder and file descriptions**  
 - one_block_coverage/: This folder contains the BED file of untruncated reads.  
 - remove_reads/: This folder contains the BED file of reads removed by the optional filters.  
 - spliced_seq/: This folder contains the BED file of truncated reads.  
+- log_file.txt: This file contains all the options given to NanoViZer.  
 - 3prime_site.tsv: This file contains the positions of the junctions at the 3' end of the block. That correspond to the last nucleotide untruncated before the junction.  
 - 5prime_site.tsv: This file contains the positions of the junctions at the 5' start of the block. That correspond to the first nucleotide untruncated after the junction.  
 - barcode_sequence.tsv: This file contains the sequences at the junctions.  
 - barcode.tsv: This file contains all the barcodes and their associated counts.  
-- bedfile_with_barcode.tsv: This is the BED file of the analysis reads where each barcode is added at the end of the lines.  
+- bedfile_with_barcode.tsv: This is the BED file of the analysis reads where each barcode is added at the end of the lines without the consensus start and end position of the barcodes.  
 - coverage.tsv: This file contains the read coverage of the genome.  
-- end_site.tsv: This file contains the count of the positions of the ends of the reads.  
+- end_site.tsv: This file contains the count of the positions of the ends of the reads.
+- genome_name.tsv: This file contains all the detected genome in the bam file to choose the right option in second point of mandatory options.  
 - junction.tsv: This file contains all the junction analyses and the count for each of them.  
 - number_of_blocks.tsv: This file contains the count of reads that contain two or more blocks.  
 - read_count.tsv: This file contains the summary of NanoViZer.  
