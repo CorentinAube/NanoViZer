@@ -39,6 +39,11 @@ NanoViZer has been successfully demonstrated to analyze data from various viral 
 2. **Activate NanoViZer:** Use the provided command-line interface to activate NanoViZer.
 3. **Conduct Analysis:** Open a web browser (e.g., Google Chrome) and follow the on-screen instructions to perform your analysis.
 
+### 1.5 Just test it  
+
+Showcase data is provided at https://nanovizer-aoz.piksail.com/ to explore the NanoViZer interface without needing to load your own data.  
+You just need to click on: Try with showcase data  
+
 ---
 
 NanoViZer is an invaluable resource for researchers in the field of virology, providing a streamlined and effective way to analyze viral genome deletions using full-length Nanopore sequencing data.
