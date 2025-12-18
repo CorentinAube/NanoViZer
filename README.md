@@ -181,7 +181,7 @@ The following folders and file are automaticaly created:
 ![](image/tutorial_3.png)  
 
 **Folder and file descriptions**  
-- one_block_coverage/: This folder contains the BED file of untruncated reads.  
+- one_block_reads/: This folder contains the BED file of untruncated reads.  
 - remove_reads/: This folder contains the BED file of reads removed by the optional filters.  
 - spliced_seq/: This folder contains the BED file of truncated reads.  
 - log_file.txt: This file contains all the options given to NanoViZer.  
