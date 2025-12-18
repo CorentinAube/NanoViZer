@@ -157,7 +157,7 @@ After completing the mandatory and optional options, click the 'Submit' button t
 If any error messages appear, please refer to Section 5: Troubleshooting.  
 
 ### 4.3 Analysis
-![tuto](image/tuto_analysis_2.png)
+![tuto](image/tutorial_UI_2.png)
 **Results**  
 The results obtained by NanoViZer are saved in text format in the 'Results' folder, and a new page opens with the graphical representations.  
   
