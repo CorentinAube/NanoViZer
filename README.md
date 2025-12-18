@@ -130,7 +130,7 @@ Other parameters are optional.
 To use NanoViZer, please complete the information on the homepage.  
 Only 'File name,' 'Name,' and 'Size' are required to launch NanoViZer; all other information is optional.  
 If any error messages appear, please refer to Section 5: Troubleshooting.  
-![tuto](image/tuto_UI.png)
+![tuto](image/tutorial_UI.png)
 
 **Mandatory options:**  
 1- Specify the alignment file : your_file.bam  
