@@ -168,9 +168,10 @@ You can navigate through the page by scrolling or by directly clicking on the ta
 To change the analysis thresholds, modify the value of the threshold, which is set to 10 by default.  
   
 **Download chart**  
-To download the images, click on 'Save chart'.  
-To download the images with a white background, first click on the 'Light theme' tab, and then click on 'Save chart'.  
-To download the images whitout background color, deselect 'Include background' option.  
+To download the charts, click on 'Save chart'.  
+To download the charts with a white background, first click on the 'Light theme' tab, and then click on 'Save chart'.  
+To download the charts whitout background color, deselect 'Include background' option.  
+For each chart, a svg and png file are downloading.  
   
 **Raw data**  
 The raw data generate by NanoViZer are save in the result folder.  
