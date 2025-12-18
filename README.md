@@ -176,7 +176,7 @@ For each chart, svg and png files are downloaded.
 **Raw data**  
 The raw data generate by NanoViZer are save in the result folder.  
 The following folders and file are automaticaly created:  
-![](image/tuto_analysis_3b.png)  
+![](image/tutorial_3.png)  
 
 **Folder and file descriptions**  
 - one_block_coverage/: This folder contains the BED file of untruncated reads.  
