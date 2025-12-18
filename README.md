@@ -171,7 +171,7 @@ To change the analysis thresholds, modify the value of the threshold, which is s
 To download the charts, click on 'Save chart'.  
 To download the charts with a white background, first click on the 'Light theme' tab, and then click on 'Save chart'.  
 To download the charts whitout background color, deselect 'Include background' option.  
-For each chart, a svg and png file are downloading.  
+For each chart, svg and png files are downloaded.  
   
 **Raw data**  
 The raw data generate by NanoViZer are save in the result folder.  
