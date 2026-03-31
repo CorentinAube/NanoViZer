@@ -1,0 +1,10 @@
+bam_name: sam2bam_bam_alignments_2
+genome_name: AF324493.2
+genome_size: 16000
+5prime_mini: 1000000000000
+first_passthrough: 0
+second_passthrough: 0
+read_position_3_end: 1000000000000
+read_position_5_start: 0
+min_read_length: 0
+genome_file_name: None
