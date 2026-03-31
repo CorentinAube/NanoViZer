@@ -35,9 +35,9 @@ NanoViZer has been successfully demonstrated to analyze data from various viral 
 
 ### 1.4 How to Use
 
-1. **Install Required Tools:** Follow the installation instructions to set up the necessary tools.
-2. **Activate NanoViZer:** Use the provided command-line interface to activate NanoViZer.
-3. **Conduct Analysis:** Open a web browser (e.g., Google Chrome) and follow the on-screen instructions to perform your analysis.
+1. **Install Required Tools:** Follow the installation instructions to set up the necessary tools (see 3. Installation).
+2. **Activate NanoViZer:** Use the provided command-line interface to activate NanoViZer (see 4.1 Open terminal).
+3. **Conduct Analysis:** Open a web browser (e.g., Google Chrome) and follow the on-screen instructions to perform your analysis (4.2 Launch NanoViZer).
 
 ### 1.5 Just try it  
 
@@ -54,7 +54,8 @@ NanoViZer is an invaluable resource for researchers in the field of virology, pr
 - Python >= 3.7
 - Flask
 - flask-cors
-- pysam  
+- pysam
+- bedtools  
 For installation, check the following section.
 
 ## 3. Installation
@@ -95,10 +96,10 @@ If the pip installation does not work, you can search forums by indicating the e
 ### 3.2 For Bioinformaticians
 
 The NanoViZer folder does not need to be in the Documents folder; this is just to facilitate explanations. Choose your own method to install these requirements (e.g., pip, conda, etc.).
-The install_packages.sh file allows you to download all the required packages through pip3.
+The install_packages.sh file allows you to download all the required packages.
 
 ## 4. Usage
-### 4.1 Open
+### 4.1 Open terminal
 
 After installing the requirements (see section 3), run the following command:
 ```bash
@@ -178,7 +179,7 @@ For each chart, svg and png files are downloaded.
 **Raw data**  
 The raw data generate by NanoViZer are save in the result folder.  
 The following folders and file are automaticaly created:  
-![](image/tutorial_3.png)  
+![](image/tutorial3.png)  
 
 **Folder and file descriptions**  
 - one_block_reads/: This folder contains the BED file of untruncated reads.  
