@@ -12,9 +12,9 @@ def filter_by_lenght(result_folder, virus_bed_file, max_3_end, passthrough,\
     '''
 
     # create output file
-    path_remove_read = result_folder+'remove_reads/remove.bed'
-    path_read = result_folder+"spliced_reads/filter_truncated.bed"
-    path_read_us = result_folder+"one_block_reads/filter_one_block_reads.bed"
+    path_remove_read = result_folder+'removed_reads/removed.bed'
+    path_read = result_folder+"truncated_reads/filter_truncated.bed"
+    path_read_us = result_folder+"untruncated_reads/filter_untruncated.bed"
 
     count_removed = 0
     count_untruncated = 0

@@ -15,13 +15,13 @@ def create_folder(result_folder):
         shutil.rmtree(result_folder)
     if not os.path.exists(result_folder):
         os.makedirs(result_folder)
-    remove_folder = result_folder+"remove_reads/"
+    remove_folder = result_folder+"removed_reads/"
     if not os.path.exists(remove_folder):
         os.makedirs(remove_folder)
-    us_folder = result_folder+"one_block_reads/"
+    us_folder = result_folder+"untruncated_reads/"
     if not os.path.exists(us_folder):
         os.makedirs(us_folder)
-    ss_folder = result_folder+"spliced_reads/"
+    ss_folder = result_folder+"truncated_reads/"
     if not os.path.exists(ss_folder):
         os.makedirs(ss_folder)
 

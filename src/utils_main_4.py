@@ -10,7 +10,7 @@ def seq_gen(count_ss, result_folder, genome_file_name):
     genome = genome_gen(genome_file_name)
 
 
-    file = result_folder+"barcode_sequence.tsv"
+    file = result_folder+"junction_sequence.tsv"
     with open(file, 'w') as filout:
         first_line = "Barcode\tcount\t+1 and +2 in 5' intron\t\
         -2 and -1 in 3' intron\t-10 (in exon) and +12 in 5' intron\t\
