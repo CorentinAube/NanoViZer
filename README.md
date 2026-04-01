@@ -183,13 +183,13 @@ The following folders and file are automaticaly created:
 ![](image/tutorial3.png)  
 
 **Folder and file descriptions**  
-- one_block_reads/: This folder contains the BED file of untruncated reads.  
-- remove_reads/: This folder contains the BED file of reads removed by the optional filters.  
-- spliced_reads/: This folder contains the BED file of truncated reads.  
+- untruncated_reads/: This folder contains the BED file of untruncated reads.  
+- removed_reads/: This folder contains the BED file of reads removed by the optional filters.  
+- truncated_reads/: This folder contains the BED file of truncated reads.  
 - log_file.txt: This file contains all the options given to NanoViZer.  
 - 3prime_site.tsv: This file contains the positions of the junctions at the 3' end of the block. That correspond to the last nucleotide untruncated before the junction.  
 - 5prime_site.tsv: This file contains the positions of the junctions at the 5' start of the block. That correspond to the first nucleotide untruncated after the junction.  
-- barcode_sequence.tsv: This file contains the sequences at the junctions.  
+- junction_sequence.tsv: This file contains the sequences at the junctions.  
 - bedfile_with_barcode.tsv: This is the BED file of the analysis reads where each barcode is added at the end of the lines without the consensus start and end position of the barcodes.  
 - coverage.tsv: This file contains the read coverage of the genome.  
 - end_site.tsv: This file contains the count of the positions of the ends of the reads.
